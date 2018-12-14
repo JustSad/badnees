@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`ٍسقوط الانسان ليس فشل ولكن القشل. هوا ان يبقي حينما سقطٍ:construction_worker:`,"http://twitch.tv/éMyyy")
+client.user.setGame(`ٍسقوط الانسان ليس فشل..ولكن الفشل. هو..أن يبقي حينما سقطٍ`,"http://twitch.tv/éMyyy")
 client.user.setStatus("dnd")
 });
 
